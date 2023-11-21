@@ -5,4 +5,4 @@ To play Online, I have linked with free host name Tiiny.Site <br>
 
 <a href="https://drive.google.com/file/d/1CWKa7IhsIPYYN9rIGHhv1ldV2nZhUhLw/view?usp=drive_link">Also Done a app for it if you need app then hear is the Google drive link<br></a>
 
-To play in pc it will be upload soon 
+To play in pc check the second branch you can see the applicaion details .
